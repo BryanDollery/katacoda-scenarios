@@ -16,12 +16,12 @@ echo "March of the sinister ducks" > ~/sinister-ducks.txt{{execute}}{{copy}}
 Now try this:
 
 ```
-cat ~/sinister-ducks.txt{{execute}}{{copy}}
-```
+cat ~/sinister-ducks.txt
+```{{execute}}{{copy}}
 
 Ok, now that we have some history, let's examine it:
 
 ```
-history{{execute}}{{copy}}
-```
+history
+```{{execute}}{{copy}}
 
