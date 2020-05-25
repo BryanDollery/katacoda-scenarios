@@ -10,18 +10,18 @@ Let's start by issuing a few commands in order to create a history. Don't focus 
 First type this:
 
 ```
-echo "March of the sinister ducks" > ~/sinister-ducks.txt{{execute}}{{copy}}
-```
+echo "March of the sinister ducks" > ~/sinister-ducks.txt
+```{{execute}}
 
 Now try this:
 
 ```
 cat ~/sinister-ducks.txt
-```{{execute}}{{copy}}
+```{{execute}}
 
 Ok, now that we have some history, let's examine it:
 
 ```
 history
-```{{execute}}{{copy}}
+```{{execute}}
 
