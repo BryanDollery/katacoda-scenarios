@@ -24,7 +24,7 @@ And
 
 ```
 ls -gAlFh ~
-```
+```{{execute}}
 
 And another cat...
 
