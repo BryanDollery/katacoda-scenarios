@@ -1,5 +1,5 @@
-# bash-101: An introduction to Bash
-## A hit-the-ground-running approach to teaching bash
+# bash-101: Foundations
+## The things you will use every day
 ### Try to keep up
 
 
@@ -18,3 +18,7 @@ Terminals, sometimes called command-lines, sessions, or, confusingly, shells, ex
 
 #### What will you learn?
 At first we'll look at terminals, but we'll quickly move into scripts too. You'll learn a bunch of useful skills in a terminal and how to use bash, even though right now you won't learn that many commands. That's what the rest of the course is for.
+
+Throughout this course you'll be learning keyboard shortcuts and the command-line method for doing things. It is my strong opinion that this more effectively grounds you in the fundamentals of how things work. In practice you'll be exposed to GUI's and other tools. Mostly these are used when the volume of information we have to interpret is too large for us to manage it efficiently on the command-line. However, if you can't do it on the command-line then a gui won't help you. GUI's make working with large volumes of data more convenient, but the fundamental knowledge has to be there for you to understand what the GUI is doing. Therefore, learn the keyboard shortcuts we present and use them.
+
+The skills you'll learn here are at the core of DevOps. Your tutor initially learnt a lot of this 30 years ago, and still uses these skills on a daily basis. We will cover basic bash here, but we'll be using it in every other part of this course. We layer technical skills on top of each other, so don't think of this as a basic module, but rather as a foundational module.
